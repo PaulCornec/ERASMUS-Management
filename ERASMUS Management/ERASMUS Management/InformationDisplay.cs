@@ -39,7 +39,7 @@ namespace ERASMUS_Management
 
         private void txtFullName_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void btnChooseFile_Click(object sender, EventArgs e)
